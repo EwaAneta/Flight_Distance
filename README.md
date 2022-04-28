@@ -13,17 +13,16 @@ README: 27<sup>th</sup> April 2022
 Flight Distance
 
 ### Description
-This project uses data provided by contracted airlines and csv file contains airports IATA codes in order to establish the point-to-point distance between each of the airports given. The Flight Distance app calculates these distances using the longitude and latitude of locations wrapped into a function and compares them with the carrier-provided distances and gives a result which is the difference between the distance provided by carriers and the real distance.
+This project uses data provided by contracted airlines and csv file that contains airports IATA codes in order to establish the point-to-point distance between each of the airports given. The Flight Distance app calculates these distances using the longitude and latitude of locations wrapped into a function and compares them with the carrier-provided distances and gives a result which is the difference between the distance provided by carriers and the real distance.
 
 The code provides the following information:
 
 1.	**Gives actual departure and arrival municipality names, country codes**
-2.	**Gives actual departure and arrival municipality names, country codes**
-3.	**Gives actual departure and arrival coordinates**
-4.	**Calculates the great circle distance between the two Earth coordinates (in nautical miles) from the original csv file, using haversine formula.**
-5.	**Calculates the great circle distance between the two Earth coordinates (in nautical miles) from the looked up actual coordinates.**
-6.	**Calculates an absolute value of the difference between the declared and actual distances.**
-7.	**Saves DataFrame with all the information to a csv file.**
+2.	**Gives actual departure and arrival coordinates**
+3.	**Calculates the great circle distance between the two Earth coordinates (in nautical miles) from the original csv file, using haversine formula.**
+4.	**Calculates the great circle distance between the two Earth coordinates (in nautical miles) from the looked up actual coordinates.**
+5.	**Calculates an absolute value of the difference between the declared and actual distances.**
+6.	**Saves DataFrame with all the information to a csv file.**
 
 ### Files used
     * FlightDistanceTest.csv (data provided by carriers)
