@@ -27,11 +27,14 @@ The code provides the following information:
 
 ### Files used
     * FlightDistanceTest.csv (data provided by carriers)
-    * airport_codes_iata.csv (source: https://www.datahub.io/core/airport-codes#data)
+    * airport_codes_iata.csv (file downloaded from website)
+
+
 
 ### Credits
 During writing my "Flight_Distance " program I referred to these websites:
 
+[IATA aiports codes.csv](https://www.datahub.io/core/airport-codes#data)
 [Haversine formula](https://en.wikipedia.org/wiki/Haversine_formula)
 [Information on how to calculate the distance between two geolocations in Python](https://towardsdatascience.com/heres-how-to-calculate-distance-between-2-geolocations-in-python-93ecab5bbba4)
 [Vectorised Haversine formula with a pandas dataframe](https://stackoverflow.com/questions/25767596/vectorised-haversine-formula-with-a-pandas-dataframe)
