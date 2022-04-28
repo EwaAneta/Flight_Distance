@@ -1,4 +1,4 @@
-<**Flight_Distance**: Business trips are an integral part of work in many organizations. Many people, apart from short internal trips, are obliged to leave the country
+__Flight_Distance__: Business trips are an integral part of work in many organizations. Many people, apart from short internal trips, are obliged to leave the country
 even for a few days. Some companies sign contracts with airlines in order to receive better prices conditions.
 
 A client who makes use of services of contracted airlines would like to know if the tracks of travel from the point-to-point mileage between their top destinations concur
@@ -34,10 +34,10 @@ The code provides the following information:
 ### Credits
 During writing my "Flight_Distance " program I referred to these websites:
 
-[IATA aiports codes.csv](https://www.datahub.io/core/airport-codes#data)
-[Haversine formula](https://en.wikipedia.org/wiki/Haversine_formula)
-[Information on how to calculate the distance between two geolocations in Python](https://towardsdatascience.com/heres-how-to-calculate-distance-between-2-geolocations-in-python-93ecab5bbba4)
-[Vectorised Haversine formula with a pandas dataframe](https://stackoverflow.com/questions/25767596/vectorised-haversine-formula-with-a-pandas-dataframe)
-[Earth radius to Nautical miles Conversion - Length Measurement](https://trustconverter.com/en/length-conversion/earth-radius/earth-radius-to-nautical-miles.html)
-[Pandas .str.isnumeric() for floats](https://stackoverflow.com/questions/68239333/pandas-str-isnumeric-for-floats)
-[Replicate Excel VLOOKUP, HLOOKUP, XLOOKUP in Python](https://pythoninoffice.com/replicate-excel-vlookup-hlookup-xlookup-in-python/)
+1. [IATA aiports codes.csv](https://www.datahub.io/core/airport-codes#data)
+2. [Haversine formula](https://en.wikipedia.org/wiki/Haversine_formula)
+3. [Information on how to calculate the distance between two geolocations in Python](https://towardsdatascience.com/heres-how-to-calculate-distance-between-2-geolocations-in-python-93ecab5bbba4)
+4. [Vectorised Haversine formula with a pandas dataframe](https://stackoverflow.com/questions/25767596/vectorised-haversine-formula-with-a-pandas-dataframe)
+5. [Earth radius to Nautical miles Conversion - Length Measurement](https://trustconverter.com/en/length-conversion/earth-radius/earth-radius-to-nautical-miles.html)
+6. [Pandas .str.isnumeric() for floats](https://stackoverflow.com/questions/68239333/pandas-str-isnumeric-for-floats)
+7. [Replicate Excel VLOOKUP, HLOOKUP, XLOOKUP in Python](https://pythoninoffice.com/replicate-excel-vlookup-hlookup-xlookup-in-python/)
