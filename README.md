@@ -27,7 +27,7 @@ The code provides the following information:
 
 ### Files used
     * FlightDistanceTest.csv (data provided by carriers)
-    * airport_codes_iata.csv (file downloaded from website)
+    * airport_codes_iata.csv (file downloaded from the website)
 
 
 
